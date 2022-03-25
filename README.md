@@ -5,14 +5,14 @@
 </div>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=eriksavage&show_icons=true&theme=monokai" alt="eriksavage" />
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eriksavage&layout=compact&theme=monokai" alt="eriksavage stats" />
   
 <div align="center" >
   <a  href="https://github.com/eriksavage">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eriksavage&theme=monokai" />
   </a>
 </div> 
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eriksavage&layout=compact&theme=monokai" alt="eriksavage stats" />
 
 <div align="center">
   <img src="https://img.shields.io/badge/Developer-Node-informational?style=flat&logo=node.js&logoColor=68a063&color=68a063">
