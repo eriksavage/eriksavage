@@ -1,43 +1,48 @@
 <div align="center">
   <h1> Erik Savage </h1>
   <h2> Fullstack Software Developer </h2>
+   <a href="https://www.linkedin.com/in/erikksavage/">
+     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Icon">
+  </a>
+  <a href="http://www.github.com/eriksavage">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
   <p>Full Stack Software Developer (MERN) with a background in the design and manufacturing of automotive and consumer electronic products, with an affinity for solving complex problems, making data driven decisions, and building user-centric tools and apps.</p>
 </div>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=eriksavage&show_icons=true&theme=monokai" alt="eriksavage" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eriksavage&show_icons=true&theme=monokai" alt="eriksavage" />
+</div>
   
 <div align="center" >
+  <br/>
   <a  href="https://github.com/eriksavage">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eriksavage&theme=monokai" />
   </a>
 </div> 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eriksavage&layout=compact&theme=monokai" alt="eriksavage stats" />
+<div align="center">
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eriksavage&layout=compact&theme=monokai" alt="eriksavage stats" />
+</div>
+<br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Developer-Node-informational?style=flat&logo=node.js&logoColor=68a063&color=68a063">
-  <img src="https://img.shields.io/badge/Developer-React-informational?style=flat&logo=react&logoColor=00ffff&color=00ffff">
-  <img src="https://img.shields.io/badge/Developer-JavaScript-informational?style=flat&logo=javascript&logoColor=f0db4f&color=f0db4f">
-  <img src="https://img.shields.io/badge/Developer-HTML-informational?style=flat&logo=html5&logoColor=ff3333&color=ff3333">
-  <img src="https://img.shields.io/badge/Developer-CSS-informational?style=flat&logo=css-wizardry&logoColor=66d3fa&color=66d3fa">
+ <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript badge"/>
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html badge"/>
+ <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css badge"/>
+ <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react badge"/>
+ <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux badge"/>
+ <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="node.js badge"/>
+ <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express badge"/>
+ <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongoDB badge"/>
+ <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql badge"/>
+ <img src="" alt=""/>
 </div>
 
 <div align="center">
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+  <p>RESOURCES:
+    <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile"><span>BADGES, </span></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><span>STATS</span></a>
+  </p>
 </div>
-
-
-<div align="center"><a href="https://www.linkedin.com/in/erikksavage/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Icon"></a></div>
-
-## Resources
-- [Badges](https://github.com/alexandresanlim/Badges4-README.md-Profile)
-- [Stats](https://github.com/anuraghazra/github-readme-stats)
